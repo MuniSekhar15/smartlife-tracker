@@ -275,6 +275,25 @@
       "missedForDate": {},
       "userId": "DkbPpY1E8FU",
       "id": "CFb0kbJYro8"
+    },
+    {
+      "title": "running",
+      "priority": "Low",
+      "completed": false,
+      "isHabit": true,
+      "createdAt": "2026-06-29T14:47:24.377Z",
+      "deadline": null,
+      "reminderTime": "18:00",
+      "repeat": null,
+      "timeGoalMinutes": 30,
+      "timeSpent": [],
+      "postponedUntil": null,
+      "notes": "",
+      "missedForDate": {
+        "2026-06-29": "No reason provided"
+      },
+      "userId": "DkbPpY1E8FU",
+      "id": "F68o-Str6mY"
     }
   ],
   "expenses": [

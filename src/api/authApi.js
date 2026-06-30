@@ -4,7 +4,7 @@ import axios from "axios";
  * @typedef {{ name: string; email: string; password: string }} SignupData
  */
 
-const BASE = "http://localhost:3000/users";
+const BASE = "https://smartlife-tracker-production.up.railway.app/users";
 
 /**
  * @param {SignupData} data

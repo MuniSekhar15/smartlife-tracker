@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE = "http://localhost:3000";
+const BASE = "https://smartlife-tracker-production.up.railway.app";
 
 export const getHealth = (userId) => {
   if (!userId) throw new Error("userId is required");
